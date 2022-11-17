@@ -47,7 +47,7 @@ Get the [Necessary Variables](#Necessary-Variables) and then click the button be
 [![Develop on Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com/deploy?repository=https://github.com/TeamUltroid/Ultroid)
 
 ## Deploy Locally
-- [Traditional Method](#local-deploy---traditional-method)
+- [Traditional Method](#local-deploy---traditional-met mnhod)
 - [Easy Method](#local-deploy---easy-method)
 - [Ultroid CLI](#ultroid-cli)
 
